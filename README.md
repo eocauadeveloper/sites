@@ -1,2 +1,0 @@
-# sites
-Sites: Hosting/Minecraft
